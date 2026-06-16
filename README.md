@@ -16,6 +16,7 @@
 ### Extra Practice (not graded)
 - `practice02.py` — five extra problems to practice `input()` and type conversion
 - `madlibs02.py` — build a silly Mad Libs story; great practice and fun to share
+- `challenge02.py` — harder stretch problems for experienced coders, plus a "break the grader" puzzle
 
 ### Submitting
 - When you're done, save your file and commit your changes:
